@@ -89,6 +89,7 @@ _py_deps = {
     "epath": ["@pypi//etils"],  # etils.epath
     "filelock": ["@pypi//filelock"],
     "flatbuffers": ["@pypi//flatbuffers"],
+    "google_benchmark": [],
     "hypothesis": ["@pypi//hypothesis"],
     "magma": [],
     "matplotlib": ["//:pypi_optional_matplotlib"],
